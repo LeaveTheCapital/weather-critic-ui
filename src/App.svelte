@@ -21,8 +21,8 @@
 <main>
   <h1>{name}</h1>
   <p>
-    Have you ever wondered which Weather Forecast is the most accurate? We're on
-    a mission to find out!
+    Have you ever wondered which UK weather forecast is the most accurate? We're
+    on a mission to find out!
   </p>
   <div class="forecasts">
     {#each forecasts as forecast}
